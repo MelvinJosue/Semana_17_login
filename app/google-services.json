@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "693912386924",
+    "project_id": "loginsemana17-a8248",
+    "storage_bucket": "loginsemana17-a8248.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693912386924:android:435c2dac615f9d30dac749",
+        "android_client_info": {
+          "package_name": "com.example.semana17login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693912386924-lllfhp49o1l9k3ck5frl1dumvvtn26u8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL37V_bIh-KpIIPnO25GkU8dy3oS_SaTc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "693912386924-lllfhp49o1l9k3ck5frl1dumvvtn26u8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
